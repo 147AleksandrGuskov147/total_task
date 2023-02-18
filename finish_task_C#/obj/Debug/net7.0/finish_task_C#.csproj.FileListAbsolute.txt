@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\bin\Debug\net7.0\finish_task_C#.exe
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\bin\Debug\net7.0\finish_task_C#.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\bin\Debug\net7.0\finish_task_C#.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\bin\Debug\net7.0\finish_task_C#.dll
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\bin\Debug\net7.0\finish_task_C#.pdb
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.dll
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\refint\finish_task_C#.dll
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.pdb
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\finish_task_C#.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\total\finish_task_C#\obj\Debug\net7.0\ref\finish_task_C#.dll
